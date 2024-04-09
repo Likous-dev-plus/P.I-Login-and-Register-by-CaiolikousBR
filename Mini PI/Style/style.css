@@ -1,0 +1,52 @@
+
+nav{
+  color: white;
+  background-color: #35BFED;
+  width: 100%;
+  height: 40px;
+  font-size: large;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+a{
+  color: white;
+  text-decoration: none;
+  padding: 40px;
+}
+
+
+
+h1{
+    color: rgb(255, 255, 255);
+}
+
+nav a:hover{
+  color: rgb(255, 0, 0);
+  transition: 1s;
+}
+
+main{
+  background-color: #268fb3;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: ;
+}
+
+button{
+  background-color: #3D3E51;
+  color: whitesmoke;
+  text-decoration: none;
+  width: 150px;
+  height: 40px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+#BG-login{
+text-decoration: none;
+color: whitesmoke;
+}
+
+
